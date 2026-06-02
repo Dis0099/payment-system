@@ -1,1 +1,1 @@
-# Payment System v1.0
+# Payment System v1.1 - Added multi-currency support
